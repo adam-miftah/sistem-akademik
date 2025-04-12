@@ -41,9 +41,8 @@ npm run build
 npm run lint
 ```
 
-### 📞 Kontak
+## 📞 Kontak
 
-Jika Anda memiliki pertanyaan atau saran, Anda bisa menghubungi saya melalui:
 - ✉️ Email: adammiftah196@gmail.com
 - 🌍 GitHub: @adam-miftah
 - 📱 WhatsApp: +62 812-1931-0355
